@@ -1,4 +1,4 @@
-from Ejercicios_DAW_Python.Primeros_ejercicios.Ej_2_2 import importe
+from Ejercicios_DAW_Python.Primeros_ejercicios.src.Ej_2_2 import importe
 
 
 def test_importe():
