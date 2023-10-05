@@ -4,5 +4,4 @@ def bienvenida(usuario):
 
 if __name__ == "__main__":
     nombre = str(input("Escribe tu nombre:  "))
-    respuesta = bienvenida(nombre)
-    print(respuesta)
+    print(bienvenida(nombre))
