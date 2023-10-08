@@ -1,5 +1,5 @@
-from Ejercicios_DAW_Python.Primeros_ejercicios.src.Ej_2_ import
+from Ejercicios_DAW_Python.Primeros_ejercicios.src.Ej_2_17 import nombrar
 
 
 def test_():
-    assert () == f""
+    assert nombrar("A", 2) ==  f"A\nA\n"

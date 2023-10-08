@@ -1,5 +1,5 @@
-from Ejercicios_DAW_Python.Primeros_ejercicios.src.Ej_2_ import
+from Ejercicios_DAW_Python.Primeros_ejercicios.src.Ej_2_18 import nombreCompleto
 
 
-def test_():
-    assert () == f""
+def test_nombreCompleto():
+    assert nombreCompleto("anGEl") == "angel, ANGEL, Angel"
