@@ -1,5 +1,5 @@
-from Ejercicios_DAW_Python.Primeros_ejercicios.src.Ej_2_ import
+from Ejercicios_DAW_Python.Primeros_ejercicios.src.Ej_2_21 import invertir
 
 
-def test_():
-    assert () == f""
+def test_invertir():
+    assert invertir("mi moto alpina derrapante") == "etnaparred anipla otom im"
