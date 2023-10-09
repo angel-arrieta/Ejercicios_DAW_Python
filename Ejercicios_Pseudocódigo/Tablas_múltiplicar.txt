@@ -1,0 +1,13 @@
+Inicio
+    Escribe "Dime un número, te haré su tabla de multiplicar"
+    Escribe "(número) x 1 = (número)"
+    Escribe "(número) x 2 = (número * 2)"
+    Escribe "(número) x 3 = (número * 3"
+    Escribe "(número) x 4 = (número * 4)"
+    Escribe "(número) x 5 = (número * 5)"
+    Escribe "(número) x 6 = (número * 6)"
+    Escribe "(número) x 7 = (número * 7)"
+    Escribe "(número) x 8 = (número * 8)"
+    Escribe "(número) x 9 = (número * 9)"
+    Escribe "(número) x 10 = (número * 10)"
+Fin

@@ -1,0 +1,8 @@
+Inicio
+    Escribe "Dime un número"
+    Lee el número
+    Si (número % 2 == 0) entonces
+        Escribe "Tú número es par"
+    Sino
+        Escribe "Tú número es impar"
+Fin

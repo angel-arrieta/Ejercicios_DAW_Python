@@ -1,0 +1,20 @@
+Inicio
+    Escribe "Dime un número, te dire si es primo o no"
+    es_primo = 0
+    Si número == 1 entonces
+        es_primo = 0
+    Sino
+        divisor = número - 1
+        Mientras divisor > 1
+            Según número % divisor entonces
+            Opción 1 número % divisor > 0
+                divisor = divisor - 1
+            Opción 2 número % divisor == 0
+                es_primo = 1
+                divisor = divisor - 1
+    Según es_primo entonces
+    Opción 1 es_primo == 0
+        Escribe "(número) no es primo"
+    Opción 2 es_primo == 1
+        Escribe "(número) es primo"
+Fin
