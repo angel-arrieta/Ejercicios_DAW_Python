@@ -1,5 +1,5 @@
-from src.Ej_1_2 import ejemplo
+from src.Ej_3_2 import impares
 
 
-def test_ejemplo():
-    assert ejemplo() == ""
+def test_impares():
+    assert impares(9) == "1, 3, 5, 7, 9"
